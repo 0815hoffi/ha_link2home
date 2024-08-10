@@ -4,17 +4,17 @@ Link2Home WiFi Rollladenschalter Einsatz
 https://www.rev.de/product/0088167006/link2home-wifi-rollladenschalter-einsatz
 
 
-## Installation
-
-### Manual installation
+### installation
 
 - Copy RolloL2H.py to /config folder of Homeassistant.
 - set permissions   #chmod 766 RolloL2H.py 
 -
   -rwxrw-rw-    1 1000     users         1351 Aug 10 06:55 RolloL2H.py
 
-- Add to configuration.yaml and change IP-Addr and MAC_Addr to your device ( Get it from your router )
+### Add to configuration.yaml and change "IP-Addr" and "MAC_Addr" to your device ( Get it from your router )
+### Change also the "name" and "unique_id" to the names you want
 
+- Code
 ```
   command_line:
   - cover:
