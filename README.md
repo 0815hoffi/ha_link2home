@@ -1,3 +1,9 @@
+# Link2Home WiFi Rollladenschalter - Shutter integration for Home-Assistant
+
+Link2Home WiFi Rollladenschalter Einsatz
+https://www.rev.de/product/0088167006/link2home-wifi-rollladenschalter-einsatz
+
+
 ## Installation
 
 ### Manual installation
